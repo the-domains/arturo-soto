@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Arturo Soto
-    url: 'https://www.youtube.com/user/bonnosoto'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+datePublished: '2016-07-18T02:30:37.754Z'
+sourcePath: _posts/2016-07-18-centro-accion.md
+isBasedOnUrl: 'https://youtu.be/-y2aXN9KoNc'
 keywords:
   - duration
   - views
@@ -20,10 +13,13 @@ keywords:
   - alcoholicos
   - alcoholismo
   - padrino
-description: >-
-  Asociación a favor de los niños los niños de la calle y de las mujeres en
-  situación vulnerable.
-inLanguage: en
+related: []
+author:
+  - name: Arturo Soto
+    url: 'https://www.youtube.com/user/bonnosoto'
+    avatar: {}
+dateModified: '2016-07-18T02:30:34.786Z'
+title: Centro Acción
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=-y2aXN9KoNc&feature=applinks'
     type: ios
@@ -61,17 +57,21 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/-y2aXN9KoNc'
-title: Centro Acción
-datePublished: '2016-07-18T02:15:27.010Z'
-dateModified: '2016-07-18T02:07:23.247Z'
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
+description: >-
+  Asociación a favor de los niños los niños de la calle y de las mujeres en
+  situación vulnerable.
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-18-centro-accion.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-y2aXN9KoNc%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-y2aXN9KoNc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-y2aXN9KoNc%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-18T02:30:37.754Z'
+datePublished: '2016-07-18T02:36:59.893Z'
 sourcePath: _posts/2016-07-18-centro-accion.md
 isBasedOnUrl: 'https://youtu.be/-y2aXN9KoNc'
 keywords:
@@ -18,7 +18,7 @@ author:
   - name: Arturo Soto
     url: 'https://www.youtube.com/user/bonnosoto'
     avatar: {}
-dateModified: '2016-07-18T02:30:34.786Z'
+dateModified: '2016-07-18T02:33:38.237Z'
 title: Centro Acción
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=-y2aXN9KoNc&feature=applinks'
